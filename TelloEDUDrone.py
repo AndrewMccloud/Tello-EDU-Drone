@@ -60,6 +60,7 @@ try:
         sendmsg('takeoff', 8)
         sendmsg('forward 220')
         sendmsg('go 230 0 60 50')
+        sendmsg('curve 40 70 80 80 100 130 60')
 
 
 
