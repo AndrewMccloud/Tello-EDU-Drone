@@ -61,8 +61,7 @@ try:
         sendmsg('forward 204.5', 8)
         sendmsg('go 210 0 50 45', 9)
         sendmsg('curve  190 175 0 30 365 0 50', 8)
-        sendmsg('forward 100', 9)
-        sendmsg('go -210 0 -60 45', 9)
+
 
 
 
